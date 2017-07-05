@@ -15,7 +15,7 @@ baseurl: '/resume' #change it according to your repository name
 #Profile information
 name: Asha Mishra
 tagline: Python Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: ashamishra10@gmail.com
