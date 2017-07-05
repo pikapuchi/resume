@@ -14,16 +14,16 @@ baseurl: '/resume' #change it according to your repository name
 
 #Profile information
 name: Asha Mishra
-tagline: Ruby on Rails Developer
+tagline: Python Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: vsrinath013@gmail.com
-phone: +91-9742068425
+email: ashamishra10@gmail.com
+phone: +91-7411438678
 #website: blog.webjeda.com #do not add http://
-linkedin: vsrnth
-github: vsrnth
-twitter: '@vsrnth'
+linkedin: asha-mishra
+github: ashamishra
+#twitter: '@vsrnth'
 
 
 # Tracker
